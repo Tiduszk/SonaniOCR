@@ -36,7 +36,7 @@ The instructions below have been validated as of 4/29/2020 on Windows 10 with a 
     - For CPU-only TensorFlow run the following command:
 	pip intall tensorflow
 
-1. Intall the other required libraries by running the following commands:
+1. Install the other required libraries by running the following commands:
     ``` bash
         pip install keras
         pip install pillow
@@ -45,10 +45,10 @@ The instructions below have been validated as of 4/29/2020 on Windows 10 with a 
         conda install graphviz
     ```
 
-1. Intall the other required libraries by running the following commands:
+1. Install the other required libraries by running the following commands:
     - Navigate to the directory where the Anaconda3 environment was created
 
-1. Intall the other required libraries by running the following commands:
+1. Install the other required libraries by running the following commands:
     - Move the SoraniOCR folder into the environment directory (In this case also named SoraniOCR)
 
 1. Run SoraniOCR by executing the following command in the activated Anaconda3 environment, replacing [Anaconda3 install directory] with the install directory of the Anaconda3 installation and [Name of Anaconda3 environment] with the name of the Anaconda3 environment created in step 7 (In this case, also called SoraniOCR):
